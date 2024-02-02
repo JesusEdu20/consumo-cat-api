@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/JesusEdu20/consumo-cat-api/",
+  "homepage": "https://jesusedu20.github.io/consumo-cat-api/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,7 +13,7 @@
   },
   "deploy": {
     "branch": "gh-pages",
-    "repo": "https://github.com/JesusEdu20/consumo-cat-api/",
+    "repo": "https://jesusedu20.github.io/consumo-cat-api/",
     "dir": "dist"
   },
   "devDependencies": {
