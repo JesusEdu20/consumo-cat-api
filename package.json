@@ -1,9 +1,9 @@
 {
   "name": "prueba-tecnica-1",
   "private": true,
+  "homepage": "https://jesusedu20.github.io/consumo-cat-api",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jesusedu20.github.io/consumo-cat-api/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
