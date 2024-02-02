@@ -7,6 +7,7 @@ export function App () {
   const { imageUrl } = useCatImage({ fact })
 
   return (
+
     <main>
       <section className='app-container'>
         <div className='fact-container'>

@@ -13,7 +13,7 @@
   },
   "deploy": {
     "branch": "gh-pages",
-    "repo": "https://github.com/JesusEdu20/consumo-cat-api",
+    "repo": "https://github.com/JesusEdu20/consumo-cat-api/",
     "dir": "dist"
   },
   "devDependencies": {
