@@ -11,11 +11,6 @@
     "predeploy": "npm run build",
     "deploy" : "gh-pages -d dist"
   },
-  "deploy": {
-    "branch": "gh-pages",
-    "repo": "https://jesusedu20.github.io/consumo-cat-api/",
-    "dir": "dist"
-  },
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "standard": "^17.1.0",
